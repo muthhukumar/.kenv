@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@johnlindquist/kit": "file:../.kit"
+  }
+}
